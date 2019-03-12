@@ -7,4 +7,9 @@ package ir.mirrajabi.searchdialog.core;
 public interface Searchable {
 	String getTitle();
 	int getEnergy();
+	double getTanpaku();
+	double getSisitu();
+	double getEnbun();
+	int getRin();
+	int getKalium();
 }
