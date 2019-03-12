@@ -11,5 +11,6 @@ public interface Searchable {
 	double getSisitu();
 	double getEnbun();
 	int getRin();
+	//
 	int getKalium();
 }
